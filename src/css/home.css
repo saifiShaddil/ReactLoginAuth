@@ -1,0 +1,22 @@
+.bg {
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background: #3f51b5;
+    position: absolute;
+    clip-path: polygon(58% 81%, 100% 38%, 100% 100%, 0 100%);
+}
+.bg1 {
+    width: 100%;
+    height: 100%;
+    z-index: -2;
+    background: #3f51b5bf;
+    position: absolute;
+    clip-path: polygon(49% 79%, 100% 38%, 100% 100%, 0 100%);
+}
+.home__info {
+    padding: 20px ;
+}
+.home__info h1 {
+    font-size: 28px;
+}
